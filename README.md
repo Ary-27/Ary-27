@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://media1.tenor.com/m/gausxtJLRnkAAAAd/kokomi-sanganomiya-kokomi.gif" width="833" height="809.5718750000001" alt="a close up of a girl with long pink hair and blue eyes" fetchpriority="high" style="max-width: 833px;">
+![image alt](https://github.com/Ary-27/Ary-27/blob/1d3710805ba30807923437aaf44ae4b315acdf73/kokomi-kokomi-sangonomiya.gif)
 <!--
 **Ary-27/Ary-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media1.tenor.com/m/gausxtJLRnkAAAAd/kokomi-sanganomiya-kokomi.gif" width="833" height="809.5718750000001" alt="a close up of a girl with long pink hair and blue eyes" fetchpriority="high" style="max-width: 833px;">
+
