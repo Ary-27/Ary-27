@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://media1.tenor.com/m/gausxtJLRnkAAAAd/kokomi-sanganomiya-kokomi.gif" width="833" height="809.5718750000001" alt="a close up of a girl with long pink hair and blue eyes" fetchpriority="high" style="max-width: 833px;">
 <!--
 **Ary-27/Ary-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://media1.tenor.com/m/gausxtJLRnkAAAAd/kokomi-sanganomiya-kokomi.gif" width="833" height="809.5718750000001" alt="a close up of a girl with long pink hair and blue eyes" fetchpriority="high" style="max-width: 833px;">
