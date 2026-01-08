@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sangonomiya Kokomi Supremacy <3
 ![image alt](https://github.com/Ary-27/Ary-27/blob/1d3710805ba30807923437aaf44ae4b315acdf73/kokomi-kokomi-sangonomiya.gif)
 <!--
 **Ary-27/Ary-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
