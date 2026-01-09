@@ -19,8 +19,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ary-27&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## A student of SMK Telkom Malang
-![](https://maps.app.goo.gl/5QZBoPLKzXrvv8f27)
+## A student of SMK Telkom Malang 📍
+[![GoogleMaps](https://maps.app.goo.gl/5QZBoPLKzXrvv8f27)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
