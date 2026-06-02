@@ -1,4 +1,4 @@
-## Sangonomiya Kokomi Supremacy <3
+## $\color{#FF0000}{\text{D}}\color{#FF1410}{\text{e}}\color{#FF2820}{\text{n}}\color{#FF3C30}{\text{i}}\color{#FF5040}{\text{a}}\text{ }\color{#FF6551}{\text{S}}\color{#FF7961}{\text{u}}\color{#FF8D71}{\text{p}}\color{#FFA181}{\text{r}}\color{#FFAF8F}{\text{e}}\color{#FFAF99}{\text{m}}\color{#FFB2A4}{\text{a}}\color{#FFB4AA}{\text{c}}\color{#FFB7B2}{\text{y}}$
 ![image alt](https://github.com/Ary-27/Ary-27/blob/main/denia-denia-wuwa.gif)
 
 
