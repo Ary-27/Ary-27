@@ -29,6 +29,8 @@
 
 ## A student of SMK Telkom Malang 📍
 ![image alt](https://github.com/Ary-27/Ary-27/blob/main/file_kapsos%20(1).jpg)
+[📍 Location In Google Maps](https://maps.app.goo.gl/umEf61LqQnnxwnim6)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
