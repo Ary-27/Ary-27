@@ -28,7 +28,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## A student of SMK Telkom Malang 📍
-![](https://maps.app.goo.gl/Ep1qCaMe4gMKqonk7)
+![image alt](https://github.com/Ary-27/Ary-27/blob/main/file_kapsos%20(1).jpg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
