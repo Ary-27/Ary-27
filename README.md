@@ -1,11 +1,9 @@
 ## $\color{#FF7675}{\text{D}}\color{#FF7A79}{\text{e}}\color{#FF7F7D}{\text{n}}\color{#FF8382}{\text{i}}\color{#FF8886}{\text{a}}\text{ }\color{#FF918F}{\text{S}}\color{#FF9693}{\text{u}}\color{#FF9B97}{\text{p}}\color{#FF9F9C}{\text{r}}\color{#FFA4A0}{\text{e}}\color{#FFA9A4}{\text{m}}\color{#FFADA9}{\text{a}}\color{#FFB2AD}{\text{c}}\color{#FFB7B2}{\text{y}}$
 ![image alt](https://github.com/Ary-27/Ary-27/blob/main/denia-denia-wuwa.gif)
 
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryzz_w7) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aryzz_27) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AryaTama343095) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryatamaary@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryzz_w7) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aryzz_27) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AryaTama343095) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryatamaary@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61578577259791) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bahtiar-ahmad-aryatama-296465389) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/3049zaZ8k) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
