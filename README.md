@@ -1,5 +1,5 @@
 ## $\color{#FF7675}{\text{D}}\color{#FF7A79}{\text{e}}\color{#FF7F7D}{\text{n}}\color{#FF8382}{\text{i}}\color{#FF8886}{\text{a}}\text{ }\color{#FF918F}{\text{S}}\color{#FF9693}{\text{u}}\color{#FF9B97}{\text{p}}\color{#FF9F9C}{\text{r}}\color{#FFA4A0}{\text{e}}\color{#FFA9A4}{\text{m}}\color{#FFADA9}{\text{a}}\color{#FFB2AD}{\text{c}}\color{#FFB7B2}{\text{y}}$
-![image alt](https://github.com/Ary-27/Ary-27/blob/main/denia-denia-wuwa.gif)
+![image alt](<img width="374" height="195" alt="qingxiao-spiderman-meme (1)" src="https://github.com/user-attachments/assets/77a4b384-3a1e-47e9-b202-e44502bafefd" />)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
